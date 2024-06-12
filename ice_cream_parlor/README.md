@@ -17,5 +17,5 @@ This Ice Cream Parlor Application allows users to manage seasonal flavors, ingre
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ice-cream-parlor.git
+   git clone https://github.com/Kondakavuri-Pavani/ice-cream-parlor.git
    cd ice-cream-parlor

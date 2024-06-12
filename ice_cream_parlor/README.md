@@ -11,6 +11,16 @@ This Ice Cream Parlor Application allows users to manage seasonal flavors, ingre
 
 - Python 3.x
 - SQLite3
+  
+## Objectives
+
+- **Seasonal Flavor Offerings**: Manage and display seasonal ice cream flavors available at the parlor.
+- **Ingredient Inventory**: Keep track of the inventory of ingredients used in making ice cream.
+- **Customer Suggestions**: Allow customers to suggest new flavors and provide information on allergens.
+- **Allergen Management**: Maintain a list of allergens and ensure customers are aware of potential allergen content.
+- **User Cart**: Enable users to maintain a cart of their favorite ice cream flavors.
+- **Search & Filter**: Allow users to search and filter available ice cream flavors based on their preferences.
+  
 
 ## Installation
 

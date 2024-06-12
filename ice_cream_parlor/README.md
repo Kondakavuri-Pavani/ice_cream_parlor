@@ -12,10 +12,9 @@ This Ice Cream Parlor Application allows users to manage seasonal flavors, ingre
 - Python 3.x
 - SQLite3
 
-## Setup Instructions
+## Installation
 
-1. **Clone the repository:**
-
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Kondakavuri-Pavani/ice-cream-parlor.git
-   cd ice-cream-parlor
+   git clone <https://github.com/Kondakavuri-Pavani/ice_cream_parlor>
+   cd ice_cream_parlor
